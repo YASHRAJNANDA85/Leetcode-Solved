@@ -6,9 +6,9 @@ public:
             if (i >= k) {
                 res = max(res, A[i] + A[i - k]);
             }
-            if (i > 0) {
-                A[i] = max(A[i], A[i - 1]);
-            }
+            
+            A[i] = max(A[i], A[i - 1]);
+            
         }
         return res;
     }
