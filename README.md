@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
