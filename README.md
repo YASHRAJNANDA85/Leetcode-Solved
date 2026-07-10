@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
