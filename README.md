@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
