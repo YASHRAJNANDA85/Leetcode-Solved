@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
