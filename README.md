@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
