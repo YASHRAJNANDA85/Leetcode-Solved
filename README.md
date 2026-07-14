@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
