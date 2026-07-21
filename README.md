@@ -27,14 +27,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
