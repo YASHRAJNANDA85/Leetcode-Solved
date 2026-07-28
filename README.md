@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
