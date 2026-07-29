@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
