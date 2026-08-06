@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1260-shift-2d-grid) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
