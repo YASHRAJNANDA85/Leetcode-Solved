@@ -24,6 +24,6 @@ public:
         if (firstTrueIndex == -1) {
             return x;
         }
-        return firstTrueIndex - 1;
+        return firstTrueIndex- 1 ;
     }
 };
