@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
