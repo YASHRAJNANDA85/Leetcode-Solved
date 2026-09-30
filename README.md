@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
