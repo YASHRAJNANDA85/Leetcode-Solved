@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0070-climbing-stairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
@@ -229,5 +231,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
