@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1872-stone-game-viii) |
 ## Greedy
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
