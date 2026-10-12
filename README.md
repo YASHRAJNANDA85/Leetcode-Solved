@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Minimax
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1051-height-checker) |
 ## Simulation
 |  |
 | ------- |
