@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
