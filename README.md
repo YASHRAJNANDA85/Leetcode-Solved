@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1872-stone-game-viii) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
