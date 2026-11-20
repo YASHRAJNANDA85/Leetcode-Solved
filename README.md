@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3731-find-missing-elements) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1872-stone-game-viii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
