@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
