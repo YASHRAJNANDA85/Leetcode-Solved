@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -298,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/YASHRAJNANDA85/Leetcode-Solved/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
